@@ -158,12 +158,6 @@ export async function POST(req: Request) {
 
 ---
 
-## 🔗 Live Demo
-
-👉 [headless-forge.vercel.app](https://headless-forge.vercel.app) *(replace with your real link)*
-
----
-
 ## 👤 Author
 
 **Matteo Sausto** — [github.com/mmss1995](https://github.com/mmss1995)
